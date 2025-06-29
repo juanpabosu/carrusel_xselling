@@ -29,3 +29,9 @@ El dataset a construir deberá contar con la siguiente información:
     -   cantidad de veces que el usuario clickeo cada value prop en las 3 semanas previas a ese print.
     -   cantidad de pagos que el usuario realizó para cada value prop en las 3 semanas previas a ese print.
     -   importes acumulados que el usuario gasto para cada value prop en las 3 semanas previas a ese print.
+ 
+**Estructura del repositorio**
+
+**data**: contiene los set de datos originales y el dataset de salida
+
+**src**: código fuente y salidas del proyecto en formato .ipynb.
