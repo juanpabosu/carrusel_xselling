@@ -8,7 +8,7 @@ En esencia, los carruseles de venta cruzada son una herramienta estratégica par
 En el contexto de MercadoPago, se quiere desarrollar un modelo de Machine Learning para predecir el orden de un conjunto de Propuestas de Valor (aka, Value Props) en el carrusel de la app llamado “Descubrí Más”.
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/e151aa12-6f79-412f-9002-e9d933bb9c95">
+ <img src="https://github.com/user-attachments/assets/af938d45-4fa8-465c-8898-76a9445bda84">
 </div>  
 
 La tarea consiste en construir un pipeline utilizando Python y sus librerías, que tenga como input 3 fuentes de datos diferentes y genere como resultado un dataset listo para ser ingerido por el modelo.   
