@@ -19,6 +19,7 @@ La tarea consiste en construir un pipeline utilizando Python y sus librerías, q
 - Payments (pays.csv) - historial de 1 mes de pagos realizados por los usuarios, en formato csv
  
 **Resultado esperado**  
+
 El dataset a construir deberá contar con la siguiente información:  
 
 -   prints de la última semana
