@@ -30,13 +30,13 @@ El dataset a construir deberá contar con la siguiente información:
     -   cantidad de pagos que el usuario realizó para cada value prop en las 3 semanas previas a ese print.
     -   importes acumulados que el usuario gasto para cada value prop en las 3 semanas previas a ese print.
  
-**Estructura del repositorio**
+## Estructura del repositorio
 
 **data**: contiene los set de datos originales y el dataset de salida
 
 **xselling.ipynb**: código fuente que genera el dataset de salida utilizando jupyter notebooks.
 
-**Referencias**
+## Referencias
 + https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
 + https://pandas.pydata.org/docs/reference/api/pandas.merge.html
 + https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html
