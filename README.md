@@ -41,4 +41,6 @@ El dataset a construir deberá contar con la siguiente información:
 + https://pandas.pydata.org/docs/reference/api/pandas.merge.html
 + https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html
 + https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
++ https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html#sklearn.base.BaseEstimator
++ https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html#sklearn.base.TransformerMixin
 
