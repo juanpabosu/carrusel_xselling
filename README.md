@@ -34,4 +34,4 @@ El dataset a construir deberá contar con la siguiente información:
 
 **data**: contiene los set de datos originales y el dataset de salida
 
-**src**: código fuente y salidas del proyecto en formato .ipynb.
+**xselling.ipynb**: código fuente que genera el dataset de salida utilizando jupyter notebooks.
