@@ -37,4 +37,7 @@ El dataset a construir deberá contar con la siguiente información:
 **xselling.ipynb**: código fuente que genera el dataset de salida utilizando jupyter notebooks.
 
 **Referencias**
++ https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
++ https://pandas.pydata.org/docs/reference/api/pandas.merge.html
 + https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+
