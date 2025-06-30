@@ -39,5 +39,6 @@ El dataset a construir deberá contar con la siguiente información:
 **Referencias**
 + https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
 + https://pandas.pydata.org/docs/reference/api/pandas.merge.html
++ https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html
 + https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
 
