@@ -35,3 +35,6 @@ El dataset a construir deberá contar con la siguiente información:
 **data**: contiene los set de datos originales y el dataset de salida
 
 **xselling.ipynb**: código fuente que genera el dataset de salida utilizando jupyter notebooks.
+
+**Referencias**
++ https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
